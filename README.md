@@ -8,20 +8,7 @@
 支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘,115.<br>
 最低版本支持安卓8.<br>
 
-
-<a href="https://www.afusekt.cn/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
-由于qq群人数限制，所以没办法开启tg群进行售后反馈
-
-<a href="https://t.me/PayForAfusekt">tg群组</a>
-
-如果你想购买订阅请访问一下，代理问的话会失败哦
-<a href="https://c.fakamiao.top/shopDetail/aac86t">购买订阅</a> .<br>
 <a href="https://github.com/AttemptD/AfuseKtV-release">tv版本</a> .<br>
-
-
-qq群，加不了代表已满
-qq群：861559202
-qq群：680093723
 
 <div >
   <img src="https://github.com/user-attachments/assets/667e553c-ff0f-4154-9dc7-9c816d022279" width=30%/>
